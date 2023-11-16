@@ -1,0 +1,24 @@
+{
+  "name": "resilient-poc",
+  "version": "1.0.0",
+  "description": "team-seraphine hackaton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "build": "tsc --skipLibCheck"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mhyne/resilient-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mhyne/resilient-poc/issues"
+  },
+  "homepage": "https://github.com/Mhyne/resilient-poc#readme",
+  "devDependencies": {
+    "mongoose": "^5.13.2"
+  }
+}
